@@ -34,6 +34,7 @@ The application was deployed locally using Flask, a lightweight Python web frame
 
 
 ### Sample of Application
+<img width="1211" alt="Image" src="https://github.com/user-attachments/assets/bbfe0bda-5c96-4a02-a5fd-56b143c08d4f" />
 <img width="1023" alt="Image" src="https://github.com/user-attachments/assets/39a9050c-ccd1-4419-8618-0d77dc4497ca" />
 
 #### Note: Focus was primarily on model logic and backend integration. Frontend kept minimal to prioritize functionality. Project serves as both a practical deployment example and a conceptual learning exercise.
